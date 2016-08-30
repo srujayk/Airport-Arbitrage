@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "cs50.h"
+#include <cs50.h>
 
 bool consistent(int num1, int num2, double conv, int len, int number1[], int number2[], int numcur, double conversion[][numcur] );
 
